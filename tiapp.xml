@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ti:app xmlns:ti="http://ti.appcelerator.org">
+<id>com.harrybrundage.zeebra</id>
+<name>Zeebra</name>
+<version>1.0</version>
+<publisher>hornairs</publisher>
+<url>http://skylightlabs.ca</url>
+<description>No description provided</description>
+<copyright>2010 by Harry Brundage</copyright>
+<icon>default_app_logo.png</icon>
+    <persistent-wifi>false</persistent-wifi>
+    <prerendered-icon>false</prerendered-icon>
+    <statusbar-style>default</statusbar-style>
+    <statusbar-hidden>false</statusbar-hidden>
+    <fullscreen>false</fullscreen>
+    <navbar-hidden>false</navbar-hidden>
+    <analytics>true</analytics>
+		<guid>d14aec7a-2df2-40b8-a3e6-7cedd113b486</guid>
+    <modules>
+    </modules>
+</ti:app>

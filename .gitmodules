@@ -1,0 +1,3 @@
+[submodule "Resources/vendor/spazcore"]
+	path = Resources/vendor/spazcore
+	url = git@github.com:hornairs/spazcore.git
